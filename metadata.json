@@ -1,0 +1,6 @@
+{
+  "name": "Facultés de Tunisie",
+  "description": "Guide complet de toutes les facultés de Tunisie avec géolocalisation Google Maps, coordonnées GPS, coordonnées de contact et filières.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
